@@ -58,9 +58,6 @@ A large e-commerce site uses a reverse proxy to distribute traffic across multip
 | **Common Users**     | Individuals, organizations             | Web services, hosting providers        |
 
 ---
-Here’s a **diagram comparing Forward Proxy and Reverse Proxy with risk points**:
-
----
 
 ### **Forward Proxy**
 - **Position:** Between client and the internet.
